@@ -1,0 +1,12 @@
+name: covid-19-mexico-leaflet
+title: covid-19-mexico-leaflet
+username:
+account: jboscomendoza
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2138945
+bundleId: 3041802
+url: https://jboscomendoza.shinyapps.io/covid-19-mexico-leaflet/
+when: 1587431363.00231
+asMultiple: FALSE
+asStatic: FALSE
